@@ -37,4 +37,4 @@ The Uber ride data was successfully explored and analyzed using Python and vario
 --Rush hours (8–10 AM and 5–7 PM) experience the highest ride demand.
 --Fridays show the peak number of pickups, especially in the evening.
 --Among Uber bases, B02617 consistently handles the largest volume of rides.
---Clear patterns in hourly and daily activity suggest that Uber can optimize driver availability and dynamic pricing using time-based demand trends.
+--Clear patterns in hourly and daily activity suggest that Uber can optimize driver availability and dynamic pricing using time-based demand trends. 
